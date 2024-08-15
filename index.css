@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.box-1{
+    width: 600px;
+    height:400px;
+    background-color:  gray;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 50px;
+    align-items: center;
+    display: flex;
+}
+
+.box-2{
+    width: 400px;
+    height:300px;
+    background-color: #e1e15f;
+    margin-left: 95px;
+}
+
+
+.box-3{
+    width: 120px;
+    height:170px;
+    background-color:white;
+    margin-left: 150px;
+    margin-top: 50px;
+    border:1px solid black;
+    box-shadow: 10px 10px;
+}
